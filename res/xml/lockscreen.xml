@@ -40,7 +40,7 @@
         android:key="lockscreen_power_menu_disabled"
         android:title="@string/lockscreen_power_menu_disabled_title"
         android:summary="@string/lockscreen_power_menu_disabled_summary"
-        android:defaultValue="true" />
+        android:defaultValue="false" />
 
         <com.android.settings.custom.preference.GlobalSettingSwitchPreference
             android:key="wake_when_plugged_or_unplugged"
