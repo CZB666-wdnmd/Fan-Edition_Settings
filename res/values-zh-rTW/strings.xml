@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2014-2016 The Dirty Unicorns Project
+      Copyright (C) 2016 AospExtended ROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- General app strings -->
+    <string name="extensions_title">PeXtension</string>
+    <string name="add">添加</string>
+    <string name="advanced">進階設定</string>
+    <string name="cancel">取消</string>
+    <string name="default_text">預設值</string>
+    <string name="dlg_ok">確定</string>
+    <string name="attention">注意</string>
+    <string name="loading">正在載入...</string>
+    <string name="reset">重設</string>
+    <string name="reset_colors">重設顏色</string>
+    <string name="reset_android">Android</string>
+    <string name="text_title">文本</string>
+    <string name="icon_title">圖示</string>
+    <string name="color_title">顏色</string>
+    <string name="colors_title">顏色</string>
+    <string name="enable">啟用</string>
+    <string name="disable">禁用</string>
+    <string name="privacy_category">隱私指示器（需要重新啟動）</string>
+    <!-- Extensions categories -->
+    <string name="status_bar_category">狀態列</string>
+    <string name="system_category">系統</string>
+    <string name="lockscreen_category">鎖定螢幕介面</string>
+    <string name="hardware_category">硬體設置</string>
+    <string name="build_tweaks_summary_title">進入新世界</string>
+    <string name="listview">列表</string>
+    <string name="misc_category">其他設置</string>
+    <string name="fingerprint_category">指紋感測器</string>
+    <string name="qs_category">快捷設置</string>
+    <string name="power_key">電源按鈕</string>
+    <string name="volume_keys">音量按鈕</string>
+    <string name="lockscreen_gestures_category">鎖定螢幕介面手勢</string>
+    <string name="battery_settings_title">電池設定選項</string>
+    <string name="gestures_category">手勢自訂</string>
+    <!-- App info dialog -->
+    <string name="extensions_dialog_title">幫助我們也是幫助您！</string>
+    <string name="extensions_dialog_message">如果您發現這些設置有任何錯誤，請在我們的Telegram 群組中報告。 錯誤報告必須包含下列內容：\n\n1. logcat 或 last_kmsg\n2. 所用的內核及模組\n3. 其他有用資訊\n\n如果您不能充分報告錯誤內容，那麼也不要期望問題會被修復。</string>
+    <string name="extensions_dialog_toast">請閱讀所有內容！</string>
+    <string name="artwork_media_fade_level_summary">淡化媒體藝術品圖像</string>
+    <!-- QuickSettings haptic feedback -->
+    <string name="quick_settings_vibrate_title">觸摸時振動</string>
+    <string name="quick_settings_vibrate_summary">點按快速設置圖示時震動</string>
+    <!-- 4G icon -->
+    <string name="show_fourg_icon_title">4G 圖示</string>
+    <string name="show_fourg_icon_summary">在信號圖示上顯示 4G 而不是 LTE</string>
+    <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_icon_title">VoLTE 圖示</string>
+    <string name="volte_icon_summary">顯示 VoLTE 圖示</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibration_category">來電振動選項</string>
+    <string name="incall_vibrate_connect_title">接通時振動</string>
+    <string name="incall_vibrate_call_wait_title">呼叫等待時震動</string>
+    <string name="incall_vibrate_disconnect_title">掛斷時振動</string>
+    <!-- Statusbar Tuner -->
+    <string name="statusbar_items_title">狀態列</string>
+    <!-- Double Tap to Sleep Statusbar -->
+    <string name="double_tap_sleep_gesture_title">按兩下以睡眠</string>
+    <string name="double_tap_sleep_gesture_summary">按兩下狀態列任意位置以休眠</string>
+    <!--Double Tap to Sleep Lockscreen-->
+    <string name="lockscreen_tweaks_category_title">您想要什麼？</string>
+    <string name="double_tap_sleep_lockscreen_title">在鎖定螢幕介面按兩下螢幕以休眠</string>
+    <!-- Annoying Notifications -->
+    <string name="notification_sound_vib_screen_on_title">惱人通知</string>
+    <string name="notification_sound_vib_screen_on_summary">當螢幕開啟時播放聲音和振動通知</string>
+    <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_switch_title">VoLTE 圖示</string>
+    <string name="volte_switch_summary">顯示 VoLTE 圖示</string>
+    <string name="volte_icon_style_title">選擇 VoLTE 圖示</string>
+    <string name="volte_icon_asus">VoLTE Asus 圖示</string>
+    <string name="volte_icon_vo">僅 Vo 圖示</string>
+    <string name="volte_icon_volte">VoLTE 圖示</string>
+    <string name="volte_icon_oos">VoLTE OOS 圖示</string>
+    <string name="volte_icon_hd">HD 圖示</string>
+    <string name="volte_icon_hd2">HD CAF 圖示</string>
+    <string name="volte_icon_miui">MIUI 11 圖示</string>
+    <string name="volte_icon_emui">EMUI 圖示</string>
+    <string name="volte_icon_margaritov">HD填充圖示</string>
+    <string name="volte_icon_margaritov2">Margaritov VoLTE 圖示</string>
+    <string name="volte_icon_vivo">Vivo 圖示</string>
+    <!-- VoWiFi icon -->
+    <string name="vowifi_icon_title">VoWiFi圖示</string>
+    <string name="vowifi_icon_enabled">啟用 VoWiFi 圖示</string>
+    <string name="vowifi_icon_disabled">禁用 VoWiFi 圖示</string>
+    <string name="vowifi_icon_enabled_volte_disabled">當 VoWiFi 可用時隱藏 VoLTE</string>
+    <string name="vowifi_icon_style_title">VoWiFi 圖示樣式</string>
+    <string name="vowifi_icon_default">預設圖示</string>
+    <string name="vowifi_icon_emui">EMUI 圖示</string>
+    <string name="vowifi_icon_asus">Asus 圖示</string>
+    <string name="vowifi_icon_oneplus">OOS 圖示</string>
+    <string name="vowifi_icon_moto">Motorola 圖示</string>
+    <string name="vowifi_icon_simple1">簡單樣式1 圖示</string>
+    <string name="vowifi_icon_simple2">簡單樣式2 圖示</string>
+    <string name="vowifi_icon_simple3">簡單樣式3 圖示</string>
+    <string name="vowifi_icon_vivo">Vivo 圖示</string>
+    <string name="vowifi_icon_margaritov">Margaritov 圖示</string>
+    <!-- Volume rocker music control -->
+    <string name="volume_rocker_music_controls_title">播放控制</string>
+    <string name="volume_rocker_music_controls_summary">螢幕關閉時，長按音量鍵切換音樂</string>
+    <!-- Volume rocker wake -->
+    <string name="volume_rocker_wake_title">通過音量鍵喚醒設備</string>
+    <string name="volume_rocker_wake_summary">按下音量鍵將喚醒手機</string>
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">鎖定螢幕介面充電資訊</string>
+    <string name="lockscreen_battery_info_summary">充電時在鎖定螢幕上顯示充電電流、電壓、功率和電池溫度</string>
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">指紋驗證成功時振動</string>
+    <string name="fprint_sucess_vib_summary">驗證指紋身份成功時振動</string>
+    <string name="fprint_error_vib_title">指紋驗證錯誤時振動</string>
+    <string name="fprint_error_vib_summary">驗證指紋身份失敗時振動</string>
+    <!-- Wake on plug -->
+    <string name="wake_when_plugged_or_unplugged_title">充電喚醒</string>
+    <string name="wake_when_plugged_or_unplugged_summary">連接或斷開電源時點亮螢幕</string>
+    <!-- Quick QS pulldown -->
+    <string name="status_bar_quick_qs_pulldown">快速下拉控制中心</string>
+    <string name="quick_pulldown_none">已禁用</string>
+    <string name="quick_pulldown_right">從右側快速下拉狀態列</string>
+    <string name="quick_pulldown_left">從左側快速下拉狀態列</string>
+    <!-- Torch Power button gestures -->
+    <string name="torch_power_button_gesture_title">鎖定螢幕下開啟手電筒</string>
+    <string name="torch_power_button_gesture_none">已禁用</string>
+    <string name="torch_power_button_gesture_dt">雙擊電源按鈕（禁用快速打開相機功能並增加 170 毫秒喚醒延遲）</string>
+    <string name="torch_power_button_gesture_lp">長按電源鍵</string>
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_brightness_slider_category">亮度滑塊</string>
+    <string name="qs_brightness_slider_title">顯示亮度滑塊</string>
+    <string name="qs_brightness_slider_summary">在快速設置面板中顯示亮度滑塊</string>
+    <string name="qs_brightness_position_bottom_title">在底部顯示亮度滑塊</string>
+    <string name="qs_brightness_position_bottom_summary">在底部快速設置上顯示亮度滑塊</string>
+    <!-- Quick Settings brightness icon -->
+    <string name="brightness_icon_title">自適應亮度按鈕</string>
+    <string name="brightness_icon_summary">顯示自適應亮度按鈕</string>
+    <!-- Quick QS Panel brightness slider -->
+    <string name="quick_qs_brightness_slider_title">在 Quick QS 面板中顯示亮度滑塊</string>
+    <string name="quick_qs_brightness_slider_summary">在 Quick QS 面板中顯示亮度滑塊</string>
+    <!-- Brightness control -->
+    <string name="status_bar_toggle_brightness">亮度控制</string>
+    <string name="status_bar_toggle_brightness_summary">通過滑動狀態欄調節亮度</string>
+    <string name="gestures_title">導航條手勢自訂</string>
+    <string name="gestures_summary">小藥丸</string>
+    <!-- Lockscreen media artwork -->
+    <string name="lockscreen_media_blur_title">專輯封面模糊程度</string>
+    <string name="show_lockscreen_media_art_title">展示媒體封面藝術</string>
+    <string name="lockscreen_media_art_options_title">鎖定螢幕媒體封面藝術</string>
+    <!-- Udfps animations -->
+    <string name="udfps_category">螢幕指紋設置</string>
+    <string name="search">搜索</string>
+    <string name="search_apps">搜索應用程式</string>
+    <!-- Old mobile type icons -->
+    <string name="use_old_mobiletype_title">舊的移動資料圖示</string>
+    <string name="use_old_mobiletype_summary">在信號圖示上方顯示網路類型</string>
+    <!-- Power Menu -->
+    <string name="power_menu_title">電源菜單</string>
+    <string name="power_menu_title_summary">查看或更改電源功能表項目目</string>
+    <string name="powermenu_screenshot">螢幕截圖</string>
+    <string name="powermenu_power">電源</string>
+    <string name="powermenu_advanced">高級重啟選項</string>
+    <string name="powermenu_restart">重啟</string>
+    <string name="powermenu_airplane">飛行模式</string>
+    <string name="powermenu_settings">設置</string>
+    <string name="powermenu_lockdown">鎖定螢幕</string>
+    <string name="powermenu_soundpanel">音量面板</string>
+    <string name="powermenu_users">用戶</string>
+    <string name="powermenu_logout">退出登錄</string>
+    <string name="powermenu_emergency">緊急情況</string>
+    <!-- Fingerprint Ripple Effect -->
+    <string name="enable_fingerprint_ripple_effect_title">波紋效果</string>
+    <string name="enable_fingerprint_ripple_effect_summary">在指紋解鎖時顯示波紋效果</string>
+    <!-- Location Privacy Indicator -->
+    <string name="location_privacy_title"> 顯示位置隱私指示器</string>
+    <string name="location_privacy_summary">啟用-在磁貼和狀態列中禁用位置隱私指示器</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">數據使用</string>
+    <string name="qs_footer_datausage_summary">在快速設置底部顯示數據使用情況摘要</string>
+    <!-- Wi-Fi Standard icon -->
+    <string name="show_wifi_standard_icon_title">顯示 Wi-Fi 版本圖示</string>
+    <string name="show_wifi_standard_icon_summary">在 Wi-Fi 信號指示器中顯示 Wi-Fi 版本</string>
+    <!-- Themes customization -->
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the settings category for theme overlays. -->
+    <string name="theme_customization_category">主題化</string>
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the adaptive icon shape (e.g. launcher and quick settings icons). -->
+    <string name="theme_customization_icon_shape_title">圖示形狀</string>
+    <string name="theme_customization_icon_shape_summary">設置系統圖示形狀樣式</string>
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize headline and body fonts. -->
+    <string name="theme_customization_font_title">標題/正文字體</string>
+    <string name="theme_customization_font_summary">設置系統字體樣式</string>
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the system wide icon pack. -->
+    <string name="theme_customization_icon_pack_title">圖示包</string>
+    <string name="theme_customization_icon_pack_summary">自訂圖示包樣式</string>
+    <!-- Custom Signal bar icons -->
+    <string name="theme_customization_signal_icon_title">信號圖示樣式</string>
+    <string name="theme_customization_signal_icon_summary">自訂信號圖標樣式</string>
+    <!-- Custom Wi-Fi bar icons -->
+    <string name="theme_customization_wifi_icon_title">WiFi 圖示樣式</string>
+    <string name="theme_customization_wifi_icon_summary">自訂 WiFi 圖示樣式</string>
+    <string name="theme_customization_navbar_title">導航欄樣式</string>
+    <string name="theme_customization_navbar_summary">自訂導航欄樣式</string>
+    <!-- Custom Fonts -->
+    <string name="theme_customization_lock_clock_title">鎖定螢幕時鐘字體</string>
+    <string name="theme_customization_lock_clock_summary">自訂鎖定熒幕時鐘字體</string>
+    <!-- Notification count -->
+    <string name="status_bar_notif_count_title">顯示通知計數</string>
+    <string name="status_bar_notif_count_summary">顯示通知的數量</string>
+    <!-- Statusbar colored icons -->
+    <string name="statusbar_colored_icons_title">彩色圖示</string>
+    <string name="statusbar_colored_icons_summary">在狀態欄中使用應用程式圖示作為通知圖示</string>
+    <!-- Ignore secure flag -->
+    <string name="window_ignore_secure_title">忽略窗口安全標誌</string>
+    <string name="window_ignore_secure_summary">忽略所有應用程序的屏幕截圖/屏幕記錄限制</string>
+    <string name="window_ignore_secure_warning">這在某些情況下很方便，但可能會導致隱私洩露。 更改此開關後，您可能需要重新啟動應用程式才能使更改生效。</string>
+    <!-- Screen off FOD -->
+    <string name="screen_off_fod_title">熒幕關閉時FOD</string>
+    <string name="screen_off_fod_summary">屏幕關閉時保持 FOD 啟用</string>
+    <!-- UDFPS settings -->
+    <string name="udfps_settings_title">熒幕指紋辨識自訂</string>
+    <string name="udfps_settings_summary">自訂螢幕指紋辨識</string>
+    <string name="udfps_icon_picker_title">螢幕指紋辨識圖示</string>
+    <string name="udfps_icon_picker_summary">選擇您喜歡的指紋圖示</string>
+    <string name="udfps_recog_animation_effect_title">熒幕指紋辨識動畫效果</string>
+    <string name="udfps_recog_animation_effect_summary">選擇動畫效果</string>
+    <!-- Custom FOD Icon -->
+    <string name="custom_fp_icon_title">自訂螢幕指紋辨識圖示</string>
+    <string name="custom_fp_icon_summary">選擇外部螢幕指紋辨識圖示</string>
+    <string name="custom_fp_select_title">選擇自訂螢幕指紋辨識圖示</string>
+    <string name="custom_fp_select_summary">從外部選擇螢幕指紋辨識圖示</string>
+    <!-- Misc gesture settings -->
+    <string name="back_gesture_haptic_title">振動反饋</string>
+    <string name="back_gesture_haptic_summary">啓用返回震動反饋</string>
+    <!-- Power menu on lockscreen -->
+    <string name="lockscreen_power_menu_disabled_title">未解鎖狀態禁用電源功能表</string>
+    <string name="lockscreen_power_menu_disabled_summary">這個選項將僅在安全鎖定螢幕下禁用電源菜單</string>
+    <!-- QS tiles layout -->
+    <string name="qs_tile_layout_title">QS 圖塊佈局</string>
+    <string name="qs_tile_layout_summary">自訂 QS 面板圖塊佈局</string>
+    <string name="qs_tiles_layout_category">圖塊佈局</string>
+    <string name="qs_rows_portrait_title">行（縱向）</string>
+    <string name="qqs_rows_portrait_title">行（Quick QS portrait）</string>
+    <string name="qs_columns_portrait_title">列 (Portrait)</string>
+    <string name="qs_apply_change_button_title">應用更改</string>
+    <string name="qs_apply_change_failed">應用更改失敗</string>
+    <string name="qs_tile_hide_label_title">隱藏標簽</string>
+    <string name="qs_tile_hide_label_summary">QS 圖塊僅顯示圖示</string>
+    <string name="qs_tile_vertical_layout_title">垂直佈局</string>
+    <string name="qs_tile_vertical_layout_summary">啓用 QS 圖塊的垂直佈局</string>
+    <!-- Privacy indicators -->
+    <string name="mic_camera_privacy_indicator_title">麥克風和相機隱私指示器</string>
+    <string name="mic_camera_privacy_indicator_summary">當任何應用程式使用麥克風或相機時顯示指示器</string>
+    <string name="location_privacy_indicator_title">位置隱私指示器</string>
+    <string name="location_privacy_indicator_summary">當任何應用程式使用位置時顯示指示器</string>
+    <string name="projection_privacy_indicator_title">媒體投影隱私指示器</string>
+    <string name="projection_privacy_indicator_summary">投影設備屏幕時顯示指示器</string>
+</resources>
